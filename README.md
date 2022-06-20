@@ -9,6 +9,9 @@ SerialUart library for stm32
 you can see this post first:
 https://forum.digikey.com/t/easily-use-printf-on-stm32/20157
 
+STM32 G0 PRINTF 
+https://www.youtube.com/watch?v=9ntZ3dwGsMk&ab_channel=STMicroelectronics
+
 You can redirect printf function to some uart, you have to do the next steps
 
 #### 1) config the uart 
